@@ -2,13 +2,11 @@
 
 Repositorio `git` de la materia **Métodos Numéricos** de **FaMAF-UNC**, edición **2023**.
 
-* Las clases virtuales se dictarán en la sala virtual de google meet: [https://meet.google.com/fns-yxpz-pux](https://meet.google.com/fns-yxpz-pux).
+* Las clases prácticas se llevarán a cabo en los laboratorios de computación de FaMAF.
 
 * Las guías de la materia serán subidas a la carpeta `guias`.
 
 * En la carpeta `tutoriales` pueden encontrar distintos tutoriales, incluyendo uno sobre cómo instalar Julia.
-
-* Las clases virtuales grabadas serán subidas a: []().
 
 * Algunas notas de teórico serán subidas a `teoricos`ambos, en versión `.ipynb` y `.pdf` 
 
@@ -19,6 +17,8 @@ Repositorio `git` de la materia **Métodos Numéricos** de **FaMAF-UNC**, edici�
 * Curso de extensión **Introducción a la programación en Julia con aplicaciones científicas, FAMAF (2022)**: [https://github.com/jipphysics/curso-extension-julia-famaf-2022](https://github.com/jipphysics/curso-extension-julia-famaf-2022).
 
 <!---
+
+* Las clases virtuales se dictarán en la sala virtual de google meet: [https://meet.google.com/fns-yxpz-pux](https://meet.google.com/fns-yxpz-pux).
 
 ## Utiles
 
