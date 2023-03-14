@@ -2,7 +2,7 @@
 
 Repositorio `git` de la materia **Métodos Numéricos** de **FaMAF-UNC**, edición **2023**.
 
-* Las clases prácticas se llevarán a cabo en los laboratorios de computación de FaMAF.
+* Las clases prácticas se llevarán a cabo en los laboratorios de computación de FaMAF (aula 17 para la comisión de Julia).
 
 * Las guías de la materia serán subidas a la carpeta `guias`.
 
