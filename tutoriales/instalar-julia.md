@@ -8,8 +8,7 @@ La instalación de los binarios de Julia es bastante sencilla:
     
 Ir a la [https://julialang.org/downloads/](https://julialang.org/downloads/)
         
-Allí elija la instalación de acuerdo al sistema operativo de su computadora. Hoy en día casi todas las computadoras ya son de 64bits, 
-pero por las dudas constate si no es de 32 bits, en tal caso use el apropiado. 
+Allí elija la instalación de acuerdo al sistema operativo de su computadora. En particular, constate si su computadora tiene instalado un sistema operativo de 32 bits o de 64 bits (el usual), y en base a ello, baje la versión de Julia correspondiente. 
 
 Complementariamente, puede inspeccionar las instrucciones para instalar Julia en su sistema operativo en la misma página de Julia. Por ejemplo, para instalar Julia en Windows siga [éstas instrucciones](https://julialang.org/downloads/platform/#windows).
 
