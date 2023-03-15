@@ -10,6 +10,8 @@ Repositorio `git` de la materia **Métodos Numéricos** de **FaMAF-UNC**, edici�
 
 * Algunas notas de teórico serán subidas a `teoricos`ambos, en versión `.ipynb` y `.pdf` 
 
+* Al aula virtual de la materia la pueden encontrar en [https://famaf-nva.aulavirtual.unc.edu.ar/](https://famaf-nva.aulavirtual.unc.edu.ar/)
+
 ## Útiles
 
 * Una versión de **Think in Julia** en español: [https://introajulia.org/](https://introajulia.org/).
